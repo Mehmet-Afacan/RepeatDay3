@@ -1,4 +1,0 @@
-This is file1
-About to be stafed and committed
-
-//this is more changes
