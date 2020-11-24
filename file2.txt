@@ -1,0 +1,2 @@
+This is file2
+About to staged and commited
